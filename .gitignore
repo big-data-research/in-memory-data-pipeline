@@ -1,3 +1,4 @@
+.worksheet
 .cache
 syntax: glob
 *.log
